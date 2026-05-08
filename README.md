@@ -1,4 +1,4 @@
-# 🎨 Whiteboard Codex
+# 🎨  Realtime Whiteboard
 
 A high-performance, real-time collaborative whiteboard designed for seamless brainstorming and design sessions. Built with a "Miro-style" focus on speed, precision, and space efficiency.
 

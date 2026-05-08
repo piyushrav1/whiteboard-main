@@ -1,3 +1,13 @@
+---
+title: Realtime Whiteboard
+emoji: 🎨
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+app_port: 7860
+---
+
 # 🎨  Realtime Whiteboard
 
 A high-performance, real-time collaborative whiteboard designed for seamless brainstorming and design sessions. Built with a "Miro-style" focus on speed, precision, and space efficiency.
